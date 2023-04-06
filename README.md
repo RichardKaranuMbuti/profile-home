@@ -5,12 +5,15 @@ Welcome to my GitHub profile! I'm a software developer based in Nairobi, Kenya. 
 ## Fun fact about me
 
 I'm an avid chess player and have been playing since I was 10 years old.
+
 I'm fun to work with and I consider myself a team player
 
 
 ## What I am doing
 I'm currently learning advanced django, data science and specialized machine learning
+
 Ask me anything about data science
+
 I open to collaborations and contributions
 
 
