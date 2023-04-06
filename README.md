@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a software developer based in Nairobi, Kenya. 
 
 - 🔭 I’m currently working on **advanced django, data science and specialized machine learning projects**
 - 🌱 I’m currently learning  **JavaScript,Python and C++**
-- 👯 I’m opem to Collaborations
+- 👯 I’m open to Collaborations
 - 👨‍💻 See all my projects at https://github.com/RichardKaranuMbuti
 - 📫 How to reach me: **officialforrichard@gmail.com**
 
