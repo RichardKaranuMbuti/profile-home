@@ -2,19 +2,19 @@
 
 Welcome to my GitHub profile! I'm a software developer based in Nairobi, Kenya. I'm proficient in React-Django full-stack development and I'm also a junior data scientist and machine learning engineer at an entry level.
 
+**Here are some information about me:**
+
+- 🔭 I’m currently working on **advanced django, data science and specialized machine learning projects**
+- 🌱 I’m currently learning  **JavaScript,Python and C++**
+- 👯 I’m opem to Collaborations
+- 👨‍💻 See all my projects at https://github.com/RichardKaranuMbuti
+- 📫 How to reach me: **officialforrichard@gmail.com**
+
 ## Fun fact about me
 
 I'm an avid chess player and have been playing since I was 10 years old.
 
 I'm fun to work with and I consider myself a team player
-
-
-## What I am doing
-I'm currently learning advanced django, data science and specialized machine learning
-
-Ask me anything about data science
-
-I open to collaborations and contributions
 
 
 ## Tools and Languages
